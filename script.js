@@ -1,13 +1,13 @@
-var ecuation=[];
+var equation=[];
 var i=0;
 function obtenerNum(valor){
-    ecuation[i]=valor;
+    equation[i]=valor;
     i++;
-    console.log(ecuation);
+    console.log(equation);
 }
 function calcularEcuation(){
     console.time();
-    let ecString=ecuation.toString();
+    let ecString=equation.toString();
     for(let j=0; j<ecString.length; j++){
         ecString = ecString.replace(",", "");
     }
@@ -15,5 +15,6 @@ function calcularEcuation(){
     console.timeEnd();
 }// retorno NaN
 function allClear(){
-    ecuation=[];
-} //No reinicia el tamaño de ecuation
+    equation=[];
+    i=0;
+}
