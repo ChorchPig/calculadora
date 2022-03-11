@@ -6,13 +6,11 @@ function obtenerNum(valor){
     console.log(equation);
 }
 function calcularEcuation(){
-    console.time();
     let ecString=equation.toString();
     for(let j=0; j<ecString.length; j++){
         ecString = ecString.replace(",", "");
     }
-    console.log(ecString);
-    console.timeEnd();
+    console.log(Numbre(ecString));
 }// retorno NaN
 function allClear(){
     equation=[];
