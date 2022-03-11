@@ -10,7 +10,7 @@ function calcularEcuation(){
     for(let j=0; j<ecString.length; j++){
         ecString = ecString.replace(",", "");
     }
-    console.log(Numbre(ecString));
+    console.log(Numbre(ecString));//output no testeado
 }// retorno NaN
 function allClear(){
     equation=[];
