@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701689475 source:c:\users\lucas\onedrive\escritorio\proyectos c++\calculadoraestadar\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"prototipos.h"
+
+1701688583 c:\users\lucas\onedrive\escritorio\proyectos c++\calculadoraestadar\prototipos.h
+
+1701689332 source:c:\users\lucas\onedrive\escritorio\proyectos c++\calculadoraestadar\main.cpp
+	<iostream>
+	"prototipos.h"
+
