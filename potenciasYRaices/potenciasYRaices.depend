@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701907529 source:c:\users\lucas\onedrive\escritorio\proyectos c++\potenciasyraices\main.cpp
+	<iostream>
+	<math.h>
+	"prototipos.h"
+
+1701907421 c:\users\lucas\onedrive\escritorio\proyectos c++\potenciasyraices\prototipos.h
+
+1701907514 source:c:\users\lucas\onedrive\escritorio\proyectos c++\potenciasyraices\funciones.cpp
+	<iostream>
+	<math.h>
+	"prototipos.h"
+
