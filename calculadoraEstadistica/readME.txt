@@ -1,2 +1,0 @@
-Objetivo: 
-Crear un programa que realice cálculos estadísticos sobre una muestra ingresada por el usuario. El programa debe por lo menos poder calcular la media, mediana, moda y variabilidad de la muestra. 
